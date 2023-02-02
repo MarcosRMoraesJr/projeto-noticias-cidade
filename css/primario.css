@@ -1,0 +1,21 @@
+.caixa-primario {
+    margin: 10px 0;
+    padding: 5px 0;
+    background: #f3f3f3 url(../imagens/fundo-caixa.png);
+}
+
+.caixa-conteudo-primario {
+    background: #ffffff;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+img.imagem-principal {
+    width: 98%;
+    border: 3px solid #dfdfdf;
+}
+
+.destaque h3 {
+    background: #b10333;
+    color: #ffffff;
+}

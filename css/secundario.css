@@ -1,0 +1,15 @@
+.caixa-secundario {
+    margin: 10px 0;
+    padding: 5px 0;
+    background: #f3f3f3 url(../imagens/fundo-caixa.png);
+}
+
+.caixa-conteudo-secundario {
+    background: #ffffff;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.entrevista h3 {
+    background: #de003e;
+}
